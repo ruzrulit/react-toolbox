@@ -29,7 +29,6 @@ Link.propTypes = {
     PropTypes.string,
     PropTypes.element,
   ]),
-  label: PropTypes.string,
   theme: PropTypes.shape({
     active: PropTypes.string,
     icon: PropTypes.string,
